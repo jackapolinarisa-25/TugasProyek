@@ -5,8 +5,8 @@ Array adalah struktur data yang digunakan untuk menyimpan banyak data dengan tip
 
 <img width="341" height="212" alt="image" src="https://github.com/user-attachments/assets/523e5ac4-70d2-4bf9-a3a5-0c2c68abffa3" />
 
+<img width="443" height="189" alt="image" src="https://github.com/user-attachments/assets/f5788659-9f69-482c-b57b-8361daf33b97" />
 
-<img width="419" height="208" alt="image" src="https://github.com/user-attachments/assets/9adceccc-42b5-4fb2-9f2a-96747d719abb" />
 
 <img width="634" height="451" alt="image" src="https://github.com/user-attachments/assets/ba9a63ab-fe44-49d7-ae4c-c6c719903e60" />
 
