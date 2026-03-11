@@ -8,7 +8,7 @@ Array adalah struktur data yang digunakan untuk menyimpan banyak data dengan tip
 
 <img width="634" height="451" alt="image" src="https://github.com/user-attachments/assets/ba9a63ab-fe44-49d7-ae4c-c6c719903e60" />
 
-img width="600" height="451" alt="image" src="https://github.com/user-attachments/assets/5bf9ccff-772c-405f-b1a6-a2ccff1dc761" />
+<img width="600" height="451" alt="image" src="https://github.com/user-attachments/assets/5bf9ccff-772c-405f-b1a6-a2ccff1dc761" />
 
 
 ## Analisis Kompleksitas
