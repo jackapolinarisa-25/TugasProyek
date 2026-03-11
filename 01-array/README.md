@@ -2,7 +2,9 @@
 Array adalah struktur data yang digunakan untuk menyimpan banyak data dengan tipe yang sama dalam satu variabel sehingga memudahkan pengolahan data.
 
 ## Screenshot Hasil
+
 <img width="341" height="212" alt="image" src="https://github.com/user-attachments/assets/523e5ac4-70d2-4bf9-a3a5-0c2c68abffa3" />
+
 
 <img width="419" height="208" alt="image" src="https://github.com/user-attachments/assets/9adceccc-42b5-4fb2-9f2a-96747d719abb" />
 
